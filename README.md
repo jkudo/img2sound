@@ -1,8 +1,8 @@
 # img2sound
-動くしらん
+動くかしらん
 
 - img2sound
---   decode
+    - decode
 
 - sound2img
---   encode
+    - encode
